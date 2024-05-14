@@ -38,5 +38,5 @@ To enhance sales for Vrinda Store, target women aged 30-49 living in Maharashtra
 
 **Let's Connect:**
 
-- Connect on LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/santoshkumarsk/)
+- Connect on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/santoshkumarsk/)
 - Explore more projects: [GitHub Profile](https://github.com/SantoshMalhi)
